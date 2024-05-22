@@ -39,5 +39,3 @@ classDiagram
     iPhone ..|> AparelhoTelefonico
     iPhone ..|> NavegadorInternet
 ```
-### Diagrama UML
-![uml-diagram.png](uml-diagram.png)![uml-diagram.png](uml-diagram.svg)
